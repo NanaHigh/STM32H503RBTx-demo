@@ -24,14 +24,14 @@ This project is based on STM32CubeMX and IAR EWARM IDE.
   - I2C
     - I2C1_SCL  (PB6)
     - I2C1_SDA  (PB7)
-  - I3C(Not implemented in this demo)
+  - I3C (Not implemented in this demo)
     - I3C1_SCL  (PB6)
     - I3C1_SDA  (PB7)
 - ICM42688 IMU
   - I2C
     - I2C1_SCL  (PB6)
     - I2C1_SDA  (PB7)
-  - I3C(Not implemented in this demo)
+  - I3C (Not implemented in this demo)
     - I3C1_SCL  (PB6)
     - I3C1_SDA  (PB7)
 - CH340 USB2Serial
@@ -39,7 +39,7 @@ This project is based on STM32CubeMX and IAR EWARM IDE.
   - USART1_RX (PA10)
 - 4x3 matrix keys implemented by BC6301
   - USART1_RX (PA3)
-- USB(Not implemented in this demo)
+- USB (Not implemented in this demo)
   - USB_DP  (PA12)
   - USB_DM  (PA11)
 
